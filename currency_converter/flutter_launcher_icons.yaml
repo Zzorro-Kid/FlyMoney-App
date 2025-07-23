@@ -1,0 +1,5 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "/home/lux/StudioProjects/currency_converter/android/app/src/main/res/image.png" # путь к вашему изображению
+  adaptive_icon_background: "#FFFFFF" 
