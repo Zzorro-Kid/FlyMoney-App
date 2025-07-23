@@ -9,7 +9,7 @@ Modern flutter application for real-time currency conversion with up-to-date exc
   - Support for popular world currencies
   - Offline mode with cached rates
   - Light/dark theme support
-  - Intuitive, minimalist interface
+  - Intuitive, user-friendly interface
   - Favorite currencies for quick access
 
 
